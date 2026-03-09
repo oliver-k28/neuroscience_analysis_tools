@@ -1,11 +1,14 @@
-# Hargreaves Analysis
+# Neuroscience Analysis Tools
 
-Tools for cleaning and processing Hargreaves thermal nociception data.
+A collection of Python and Jupyter notebook pipelines for behavioral neuroscience data analysis.
 
-Contents
-- Data cleaning notebook
-- Processing scripts for latency data
-- Example datasets for testing
+Current modules:
+- Hargreaves thermal nociception
+- von Frey mechanical threshold analysis
+- Forced swim test analysis
+- General utilities for plotting and preprocessing
 
-Author: Oliver Krentzman
+This repository is a growing toolbox for analysis workflows used in neuroscience research.
+
+Author: Oliver Krentzman  
 Washington University in St. Louis
